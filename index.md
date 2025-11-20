@@ -10,3 +10,6 @@
 curl ascii.live/can-you-hear-me
 # Rick Roll in terminal
 ```
+- [x] Linux/Mac version tested, and works...
+- [ ] Make Windows version of rick roll IG.
+- [ ] Give code to my friends without telling them.
